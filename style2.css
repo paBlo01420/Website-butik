@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url(room2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+header {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s;
+}
+nav ul li a:hover {
+  color: royalblue;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.kategori-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.kategori {
+  margin: 10px;
+  text-align: center;
+}
+
+.kategori-link {
+  display: contents;
+  text-decoration: none;
+  color: #333;
+}
+
+.kategori-link img {
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.kategori-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 2px;
+  border-radius: 2px;
+  /* opacity: 0;
+  transition: opacity 0.3s ease; */
+}
+
+.kategori-link:hover .kategori-overlay {
+  opacity: 1;
+}
+
+footer {
+  background-color: #f2f2f2;
+  text-align: center;
+}

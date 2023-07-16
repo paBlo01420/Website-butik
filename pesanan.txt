@@ -1,0 +1,27 @@
+Nama: dani
+Alamat: jalan tamsis
+Nomor Telepon: 089512
+Metode Pembayaran: transfer
+
+Nama: dani
+Alamat: jalan tamsis
+Nomor Telepon: 089512
+Metode Pembayaran: transfer
+
+Nama: agung
+Alamat: jalan. ponogoro no. 28
+Nomor Telepon: 089999999
+Metode Pembayaran: credit
+
+Nama: agung
+Alamat: jalan. ponogoro no. 28
+Telepon: 089999999
+Metode Pembayaran: credit
+
+Nama: kinarty
+Alamat: jalan.wonosobo no.44
+Jumlah Barang: 1
+Ukuran: M
+Nomor Telepon: 0812345
+Metode Pembayaran: cash
+
